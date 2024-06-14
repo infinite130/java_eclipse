@@ -1,9 +1,17 @@
 INDEX VERSION 1.131
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1570833499.index
+/practice01-board/src/main/java
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2961803179.index
+/practice03-order-page/src/main/java
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1560684961.index
+/practice04-simple-board/src/main/java
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4094072597.index
+/practice04-simple-board/src/main/java
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2685212341.index
+/practice04-simple-board/src/main/java
+/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4034969780.index
+/practice04-simple-board/src/main/java
 /Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3052992468.index
 /practice03-order-page/src/main/java
 /Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2564241054.index
 /practice01_board/src/main/java
-/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2961803179.index
-/practice03-order-page/src/main/java
-/Users/icda/java_eclipse/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1570833499.index
-/practice01-board/src/main/java
